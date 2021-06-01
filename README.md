@@ -1,5 +1,5 @@
 ## Anna Caroline
-Welcome to my portfolio. I am a computer engineering student at the Federal Technological University of Parana (utfpr) and I am happy to be able to share a little bit with you about my accomplishments in the area of programming, as well as my learning.
+Welcome to my portfolio. I am a computer engineering student at the Federal Technological University of Parana (UTFPR) and I am happy to be able to share a little bit with you about my accomplishments in the area of programming, as well as my learning.
 ##
 <div>
   
