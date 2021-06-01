@@ -1,3 +1,5 @@
+## Anna Caroline
+Engineer computer student at Federal Technological University of Paraná (UTFPR).
 <div>
   
 ![Snake animation](https://github.com/annaosousa/annaosousa/blob/output/github-contribution-grid-snake.svg) 
